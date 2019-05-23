@@ -1,0 +1,9 @@
+8
+Dallas|Austin|T
+Chicago|Denver|T
+Austin|Houston|C
+Dallas|Seattle|C
+Dallas|Chicago|T
+New York|Fort Worth|T
+Denver|Austin|C
+Dallas|Phoenix|C

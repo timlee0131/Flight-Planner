@@ -1,0 +1,36 @@
+Flight 1: Dallas, Austin (Time)
+Path 1: Dallas -> Austin. Time: 45 Cost: 85
+Path 2: Dallas -> San Antonio -> Austin. Time: 109 Cost: 219
+Path 3: Dallas -> Chicago -> Denver -> Seattle -> San Antonio -> Austin. Time: 917 Cost: 1546
+
+Flight 2: Chicago, Denver (Time)
+Path 1: Chicago -> Denver. Time: 143 Cost: 250
+Path 2: Chicago -> Dallas -> San Antonio -> Seattle -> Denver. Time: 775 Cost: 1317
+Path 3: Chicago -> Dallas -> San Antonio -> Houston -> New York -> Denver. Time: 781 Cost: 1567
+
+Flight 3: Austin, Houston (Cost)
+Path 1: Austin -> San Antonio -> Houston. Time: 101 Cost: 199
+Path 2: Austin -> Dallas -> San Antonio -> Houston. Time: 147 Cost: 305
+Path 3: Austin -> San Antonio -> Fort Worth -> New York -> Houston. Time: 462 Cost: 1165
+
+Flight 4: Dallas, Seattle (Cost)
+Path 1: Dallas -> San Antonio -> Seattle. Time: 380 Cost: 620
+Path 2: Dallas -> Austin -> San Antonio -> Seattle. Time: 424 Cost: 684
+Path 3: Dallas -> Chicago -> Denver -> Seattle. Time: 538 Cost: 947
+
+Flight 5: Dallas, Chicago (Time)
+Path 1: Dallas -> Chicago. Time: 185 Cost: 347
+Path 2: Dallas -> San Antonio -> Seattle -> Denver -> Chicago. Time: 733 Cost: 1220
+Path 3: Dallas -> San Antonio -> Houston -> New York -> Denver -> Chicago. Time: 739 Cost: 1470
+
+Flight 6: New York, Fort Worth (Time)
+Path 1: New York -> Fort Worth. Time: 180 Cost: 400
+Path 2: New York -> Houston -> San Antonio -> Fort Worth. Time: 275 Cost: 766
+Path 3: New York -> Denver -> Chicago -> Dallas -> San Antonio -> Fort Worth. Time: 777 Cost: 1183
+
+Flight 7: Denver, Austin (Cost)
+Path 1: Denver -> Chicago -> Dallas -> Austin. Time: 373 Cost: 682
+Path 2: Denver -> Chicago -> Dallas -> San Antonio -> Austin. Time: 437 Cost: 816
+Path 3: Denver -> Seattle -> San Antonio -> Austin. Time: 589 Cost: 949
+
+Flight from Dallas to Phoenix does not exist

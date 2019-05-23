@@ -1,0 +1,14 @@
+13
+Dallas|Austin|85|45
+Houston|San Antonio|100|47
+Fort Worth|New York|400|180
+Denver|Seattle|350|210
+Dallas|San Antonio|120|55
+San Antonio|Austin|99|54
+San Antonio|Fort Worth|66|64
+New York|Houston|600|164
+San Antonio|Seattle|500|325
+New York|Seattle|700|434
+New York|Denver|400|330
+Dallas|Chicago|347|185
+Denver|Chicago|250|143
