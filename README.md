@@ -8,6 +8,6 @@ input2.txt: This file contains a sequence of origin/destination city pairs. For 
 
 output.txt: For each requested flight path, the program outputs 3 most efficient paths. if there are 3 paths or more. If there are less than 3 paths, all paths are printed. If no flight plan can be created (because there is no viable path between the two requested cities), the program outputs a message saying there is no flight path for those given cities. 
 
-All the data structure classes in this program (i.e. Stack, doubly-linkedlist, vector, string) were user-written.
+All the data structure classes in this program (i.e. Stack, doubly-linkedlist, vector, string) were written from scratch, and not from standard C++ libraries.
 
 
